@@ -1,4 +1,4 @@
-## `.github/` 的文档
+## 介绍 `.github/` 文件夹的用途
 
 ## 概括
 用户在 https://github.com/1c7/chinese-independent-developer/issues/160 提交评论。   
@@ -6,7 +6,7 @@
 需要用程序自动化处理，减少我的时间投入。
 
 ## 流程
-1. 我在用户提交的评论点击 🚀 图标（表情）
+1. 我（1c7）在用户提交的评论点击 🚀 图标（表情）
 1. 触发 Github Action 执行（手动触发 或 定时执行（每 6 小时）
 1. Github Action 会触发 .github/scripts/process_item.py
 2. 查找 "当前日期-3天" 开始（这个时间点往后） 所有标记 🚀 图标 的评论
@@ -26,4 +26,3 @@ uv sync
 
 uv run .github/scripts/process_item.py
 ```
-

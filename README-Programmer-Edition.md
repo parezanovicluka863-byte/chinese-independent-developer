@@ -16,6 +16,49 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 4 月 30 号添加
+
+#### KevinGong2013(上海) - [Github](https://github.com/KevinGong2013)
+* :white_check_mark: [apkgo](https://github.com/KevinGong2013/apkgo)：Android APK 多渠道分发 CLI，一条命令并发上传到华为 / 小米 / OPPO / vivo / 荣耀 / 应用宝 / Google Play / Samsung / 蒲公英 / fir.im 等 10+ 应用市场，支持 Web GUI、Go 库调用与上传前后 Shell Hook
+
+### 2026 年 4 月 10 号添加
+
+#### nowork-studio - [Github](https://github.com/nowork-studio)
+* :white_check_mark: [toprank](https://github.com/nowork-studio/toprank)：开源（MIT）的 Claude Code 插件，提供 9 个 SEO 和 Google Ads 技能。连接 Google Search Console、PageSpeed Insights、Google Ads API，自动重写 meta 标签、生成 JSON-LD 结构化数据，并将修改直接推送到 WordPress/Strapi/Contentful/Ghost。107 stars
+
+### 2026 年 4 月 8 号添加
+
+#### SunflowersLwtech - [Github](https://github.com/SunflowersLwtech)
+* :white_check_mark: [polanyi-design](https://github.com/SunflowersLwtech/polanyi-design)：基于 Michael Polanyi 默会知识理论的前端设计认知引擎 Claude Code Skill，让 AI 生成有审美判断力的 UI 设计而非模板化输出 - [更多介绍](https://sunflowerslwtech.github.io/polanyi-design/showcase/)
+
+### 2026 年 3 月 30 号添加
+
+#### yanglian(珠海) - [Github](https://github.com/lian-yang)
+* :white_check_mark: [trans](https://github.com/lian-yang/trans)：基于 OpenAI 兼容 API 的终端 AI 翻译工具，管道友好，即装即用
+
+### 2026 年 3 月 25 号添加
+
+#### Moresl - [Github](https://github.com/Moresl)
+* :white_check_mark: [CCHub](https://github.com/Moresl/cchub)：Claude Code 生态管理平台，支持 MCP 服务器管理、Skill 技能管理、多配置切换、自定义 Slash Command 等功能，基于 Tauri v2 构建的桌面应用
+
+### 2026 年 3 月 21 号添加
+
+#### raullenchai - [Github](https://github.com/raullenchai)
+* :white_check_mark: [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)：Apple Silicon 上最快的本地 AI 推理引擎，OpenAI API 兼容，比 Ollama 快 2-4 倍，支持 17 种工具调用解析器、推理分离、视觉模型和语音功能
+
+### 2026 年 3 月 10 号添加
+
+#### my19940202(上海) - [Github](https://github.com/my19940202)
+* :white_check_mark: [Cursor带我学英语](https://github.com/my19940202/cursor-thinking-stat)：本地采集cursor对话英语语料信息，通过可视化方式分析，辅助程序员提升技术英语的学习，辅助写好英语prompt
+
+### 2026 年 3 月 1 号添加
+#### @leodenglovescode(北京) - [Github](https://github.com/leodenglovescode), [博客](https://leodeng.dev)
+* :white_check_mark: [pm2-webmanager](https://github.com/leodenglovescode/pm2-webmanager)：基于HTML和JS的新一代PM2进程管理器，简易上手。A modern, light-weight web manager for all your PM2 processes
+
+### 2026 年 1 月 14 号添加
+#### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://momei.app/)
+* :white_check_mark: [墨梅博客](https://github.com/CaoMeiYouRen/momei)：博客平台，专为技术开发者和跨境内容创作者量身定制。专业、高性能、国际化 - [更多介绍](https://docs.momei.app/)
+
 ### 2025 年 12 月 2 号添加
 #### phishdestroy - [GitHub](https://github.com/phishdestroy)
 * :white_check_mark: [Destroylist](https://github.com/phishdestroy/destroylist)：Auto-updating phishing blacklist for threat intelligence
@@ -109,7 +152,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2025 年 5 月 13 号添加
 #### masz
-* :white_check_mark: [ui2vue](https://www.ui2vue.cn)：生成 vue3 代码的工具网站，支持拖拽&编辑方式添加组件，可直接导出vue3代码
+* :x: [ui2vue](https://www.ui2vue.cn)：生成 vue3 代码的工具网站，支持拖拽&编辑方式添加组件，可直接导出vue3代码
 
 ### 2025 年 5 月 11 号添加
 #### 草梅友仁 - [Github](https://github.com/CaoMeiYouRen), [博客](https://blog.cmyr.ltd/)
@@ -148,7 +191,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 ### 2025 年 3 月 17 号添加
 #### dodid - [Github](https://github.com/dodid)
-* :white_check_mark: [PAC代理自动配置管理器](https://github.com/dodid/pac-proxy-manager)：管理代理自动配置文件（PAC），支持灵活的代理规则设置
+* :x: [PAC代理自动配置管理器](https://github.com/dodid/pac-proxy-manager)：管理代理自动配置文件（PAC），支持灵活的代理规则设置
 
 ### 2025 年 2 月 10 号添加
 #### yvling(合肥) - [Github](https://github.com/yv1ing), [博客](https://blog.yvling.cn)
@@ -624,6 +667,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [GitHub Page 图床](https://www.npmjs.com/package/github-picbed)：借助于 GitHub Page 和 GitHub Api 做图床 - [更多介绍](https://github.com/imlinhanchao/github-picbed)
 * :white_check_mark: [Google 翻译 node 库](https://www.npmjs.com/package/translator-promise)：通过模拟请求实现 Google 翻译功能 - [更多介绍](https://github.com/imlinhanchao/translator-promise)
 * :white_check_mark: [VitePress JS 代码预览插件](https://www.npmjs.com/package/vitepress-script-preview)：VitePress 插件，增加一个可预览 JS 代码执行结果的 markdown 容器。 - [更多介绍](https://imlinhanchao.github.io/vitepress-script-preview/)
+* :white_check_mark: [Low Code](https://www.npmjs.com/package/lc-vue3)：基于 Vue 3 的可配置低代码表单设计器与渲染器。 - [更多介绍](http://lc.hancel.org/)
 
 ### 2019年12月17号添加
 ---
@@ -728,5 +772,5 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [Image2ASCII](https://github.com/qeesung/image2ascii.git) : 图片转化为 ASCII 码的命令行工具
 * :white_check_mark: [ASCIIPlayer](https://github.com/qeesung/asciiplayer) : 图片，GIF，视屏 ASCII 转化播放命令行工具
 
-#### 袁慠棱(南京) - [Github](https://github.com/alengYuan), [博客](http://slothindie.org/)
-* :white_check_mark: [LemonTea](http://lemontea.slothindie.org/)：极简且特别的静态网站生成器 - [更多介绍](http://lemontea.slothindie.org/book/index.html)
+#### 袁慠棱 - [Github](https://github.com/alengYuan), [博客](http://slothindie.org/)
+* :x: [LemonTea](http://lemontea.slothindie.org/)：极简且特别的静态网站生成器 - [更多介绍](http://lemontea.slothindie.org/book/index.html)
